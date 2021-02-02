@@ -18,5 +18,13 @@
     "gulp-sass": "^4.1.0",
     "node-sass": "^5.0.0"
   },
-  "dependencies": {}
+    "private": true,
+    "dependencies": {
+      "autoprefixer": "^6.5.4"
+    },
+    "browserslist": [
+      "last 2 version",
+      "> 1%",
+      "IE 10"
+    ]  
 }
